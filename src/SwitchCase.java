@@ -8,7 +8,7 @@ public class SwitchCase {
 
         boolean run = true;
 
-        //wile statement
+        
         while(run == true) {
 
             try {
