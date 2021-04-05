@@ -21,7 +21,7 @@ public class SwitchCase {
                 int num = sr.nextInt();
 
 
-                // Hello
+               
                 switch(num) {
 
                     case 1:
