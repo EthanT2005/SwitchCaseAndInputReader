@@ -1,14 +1,18 @@
 import java.io.IOException;
 import java.util.InputMismatchException;
 import java.util.Scanner;
-
+/*
+This code was created by Ethan Trombley for a school project.
+The main purpose of this program was just to identify the month by its number when you input a number 1-12
+This code can be used and edited how ever you want it to.
+*/
 public class SwitchCase {
 
     public static void main(String[] args) throws IOException {
 
         boolean run = true;
 
-        
+
         while(run == true) {
 
             try {
@@ -105,3 +109,4 @@ public class SwitchCase {
     }
 
 }
+
